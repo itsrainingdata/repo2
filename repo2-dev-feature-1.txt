@@ -1,0 +1,3 @@
+This is a new feature created on feature branch feature-1
+Now I am continuing to work on this feature
+Adding tests
