@@ -1,1 +1,2 @@
 I have added a new feature to the dev branch
+This is a quick fix to this feature
